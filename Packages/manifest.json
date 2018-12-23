@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.candycoded.unity-ios-bridge": "https://github.com/neogeek/Unity-iOS-Bridge.git#upm",
     "com.unity.ads": "2.3.1",
     "com.unity.analytics": "3.2.2",
     "com.unity.collab-proxy": "1.2.15",
@@ -36,5 +37,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.candycoded.unity-ios-bridge": {
+      "hash": "b0c819d5c2af1aab9beb36cd2fbacb4073e0aff4",
+      "revision": "upm"
+    }
   }
 }
